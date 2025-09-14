@@ -6,6 +6,6 @@ ToDo管理はシンプルなテキストファイルで管理するべきとい�
 
 ## 技術スタック
 - Ruby on Rails
-- Nuxt.js
+- Nuxt
 - Postgres
 - aws
